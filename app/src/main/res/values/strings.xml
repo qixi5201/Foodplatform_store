@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">project_2</string>
+    <string name="text2">訂位日期查看</string>
+    <string name="date">選擇今日</string>
+    <string name="text4">查看訂位</string>
+    <string name="text5">查看外帶</string>
+    <string name="text6">5/11 17:00 2位</string>
+    <string name="text7">黃先生</string>
+    <string name="text8">接受訂位</string>
+    <string name="text9">訂位已滿</string>
+    <string name="text10">5/12 18:00 4位</string>
+    <string name="text11">張先生</string>
+    <string name="text12">5/13 17:30 6位</string>
+    <string name="text13">林先生</string>
+    <string name="text14">刪除</string>
+    <string name="text15">序號1</string>
+    <string name="text16">序號2</string>
+    <string name="text17">序號3</string>
+    <string name="text18">序號4</string>
+    <string name="text19">5/11 17:00 2位 黃先生</string>
+    <string name="text20">已取消</string>
+    <string name="text21">訂位列表</string>
+    <string name="text22">外帶總覽</string>
+    <string name="text31">訂位總覽</string>
+    <string name="text23">櫃台結帳</string>
+    <string name="text24">網路結帳</string>
+    <string name="text25">湯麵*1</string>
+    <string name="text26">滷肉飯(小)*3</string>
+    <string name="text27">湯麵*1</string>
+    <string name="text28">滷肉飯(大)*2</string>
+    <string name="text29">貢丸湯*1</string>
+    <string name="text30">滷肉飯(小)*1</string>
+</resources>
